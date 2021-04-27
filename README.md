@@ -8,3 +8,4 @@
 8. Word Capitalization (http://codeforces.com/problemset/problem/281/A)
 9. A Nearly Lucky Number (http://codeforces.com/problemset/problem/110/A)
 11. Panoramix's Prediction (http://codeforces.com/problemset/problem/80/A)
+12. Ultra-Fast Mathematician (http://codeforces.com/problemset/problem/61/A)
